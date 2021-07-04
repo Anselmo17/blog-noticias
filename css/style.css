@@ -1,0 +1,55 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+  background: rgb(241, 238, 238);
+  background-image: url('../img/fundo.jpg');
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  background: black;
+  color: aliceblue;
+  font-size: 3em;
+  font-weight: 800;
+  padding: 10px;
+}
+
+.bd-radius {
+  border-radius: 15px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+section {
+  max-width: 100%;
+  background: rgb(0, 0, 0);
+  padding: 20px;
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+section h3 {
+  margin-top: 15px;
+  font-size: 2em;
+  text-align: center;
+  color: #06aa48;
+  font-weight: 800;
+}
+
+hr {
+  width: 100%;
+  color: aliceblue;
+}
+
+p {
+  font-size: 1.8em;
+  color: aliceblue;
+}
+
+.icon-green {
+  color: #06aa48;
+}
